@@ -1,0 +1,17 @@
+# Node
+node_modules/
+.expo/
+*.log
+
+# Java
+backend/target/
+*.class
+
+# IDE settings
+*.iml
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
